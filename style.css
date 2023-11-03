@@ -1,8 +1,11 @@
-table{
+thead{
     background-color: #D7ECD1;
     font-family: Georgia, 'Times New Roman', Times, serif;
     border-radius: 5px;
     color: #480734;
+}
+tbody{
+    background-color: #F6F4BD;
 }
 #btnid{
     border-radius: 15px;
@@ -14,4 +17,7 @@ table{
 #item{
     border-radius: 10px;
     box-shadow: inset;
+}
+table{
+    border-collapse: collapse;
 }
