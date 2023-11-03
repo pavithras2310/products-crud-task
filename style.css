@@ -1,0 +1,17 @@
+table{
+    background-color: #D7ECD1;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-radius: 5px;
+    color: #480734;
+}
+#btnid{
+    border-radius: 15px;
+    height: 25px;
+    width: 70px;
+    background-color: #F6F4BD;
+    color: #480734;
+}
+#item{
+    border-radius: 10px;
+    box-shadow: inset;
+}
